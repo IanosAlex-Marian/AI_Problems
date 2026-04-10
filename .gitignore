@@ -1,0 +1,77 @@
+# =========================
+# VIRTUAL ENVIRONMENTS (ANY DEPTH)
+# =========================
+**/cv_env/
+**/nlp_env/
+**/misc_env/
+**/venv/
+**/.venv/
+**/env/
+**/*env*/
+
+# =========================
+# PYTHON CACHE
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# PYTHON FILES
+# =========================
+*.py
+
+# =========================
+# JUPYTER
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# DATASETS (IMPORTANT FOR YOU)
+# =========================
+**/train/
+**/test/
+**/train_data/
+**/test_data/
+**/data/
+**/datasets/
+**/*train*/*
+**/*test*/*
+
+# =========================
+# IMAGES (CV PROJECTS)
+# =========================
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.bmp
+**/*.tiff
+**/*.gif
+
+# Optional: if you store images in folders
+**/images/
+**/image_data/
+
+# =========================
+# OUTPUTS / SUBMISSIONS
+# =========================
+**/submission/
+**/*.csv
+**/*.json
+
+# =========================
+# OS / SYSTEM
+# =========================
+__MACOSX/
+
+# =========================
+# DO NOT IGNORE PROJECT FILES
+# =========================
+!.gitignore
+!README.md
+!requirements.txt
+!**/*.ipynb
+
+# =========================
+# IGNORE FILES
+# =========================
+.DS_Store
