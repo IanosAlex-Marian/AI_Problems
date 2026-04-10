@@ -40,6 +40,9 @@ Solutions for text analysis, sentiment classification, and language modeling.
 ### 🎲 [Miscellaneous (MISC)](./MISC/)
 General ML problems including regression, reinforcement learning, and algorithmic challenges.
 
+- **MLCompete Challenges:**
+  - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
+
 - **NitroAI Challenges:**
   - 🚗 [AutoValue: Predicting Car Prices](./MISC/NitroAI/AutoValue_Predicting_Car_Prices/README.md)
   - 🌀 [Markov Maze](./MISC/NitroAI/Markov_Maze/README.md)
