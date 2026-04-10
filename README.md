@@ -29,6 +29,9 @@ Explore projects focused on image classification, anomaly detection, and pattern
 ### 🗣️ [Natural Language Processing (NLP)](./NLP/)
 Solutions for text analysis, sentiment classification, and language modeling.
 
+- **MLCompete Challenges:**
+  - 🇷🇴 [DialectRO](./NLP/MLCompete/DialectRO/README.md)
+
 - **NitroAI Challenges:**
   - 🤖 [Are You a Robot](./NLP/NitroAI/Are_You_a_Robot/README.md)
   - 🆚 [Om VS Ai](./NLP/NitroAI/Om_VS_Ai/README.md)
