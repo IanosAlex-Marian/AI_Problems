@@ -46,6 +46,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
 - **MLCompete Challenges:**
   - 🎖️ [Battlefield Recon](./MISC/MLCompete/Battlefield_Recon/README.md)
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
+  - 🤖 [Robots In The Maze](./MISC/MLCompete/Robots_In_The_Maze/README.md)
 
 - **NitroAI Challenges:**
   - 🚗 [AutoValue: Predicting Car Prices](./MISC/NitroAI/AutoValue_Predicting_Car_Prices/README.md)
