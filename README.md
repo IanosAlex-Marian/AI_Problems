@@ -44,6 +44,7 @@ Solutions for text analysis, sentiment classification, and language modeling.
 General ML problems including regression, reinforcement learning, and algorithmic challenges.
 
 - **MLCompete Challenges:**
+  - 🏦 [Bank Marketing](./MISC/MLCompete/Bank_Marketing/README.md)
   - 🎖️ [Battlefield Recon](./MISC/MLCompete/Battlefield_Recon/README.md)
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
