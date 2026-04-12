@@ -5,6 +5,8 @@ This project is part of the [MLCompete](https://platform.olimpiada-ai.ro/en) cha
 - [Jupyter Notebook](./main.ipynb)
 - [Back to Main README](../../../README.md)
 
+**Final Score: 100%**
+
 ## Documentation
 
 The project identifies fraudulent credit card transactions in a highly imbalanced dataset. It employs a multi-step analysis:
