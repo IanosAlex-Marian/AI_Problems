@@ -5,6 +5,8 @@ This project is part of the [MLCompete](https://platform.olimpiada-ai.ro/en) cha
 - [Jupyter Notebook](./main.ipynb)
 - [Back to Main README](../../../README.md)
 
+**Final Score: 100%**
+
 ## Documentation
 
 The project focuses on spatial analysis of reconnaissance data, representing positions of units in a battlefield. It involves:
