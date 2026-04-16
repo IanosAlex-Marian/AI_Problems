@@ -47,6 +47,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 💰 [Annual Income Prediction](./MISC/MLCompete/Annual_Income_Prediction/README.md)
   - 🏦 [Bank Marketing](./MISC/MLCompete/Bank_Marketing/README.md)
   - 🎖️ [Battlefield Recon](./MISC/MLCompete/Battlefield_Recon/README.md)
+  - 📞 [Churn In Telecommunications Services](./MISC/MLCompete/Churn_In_Telecommunications_Services/README.md)
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
   - 🦸 [Juditis Mission](./MISC/MLCompete/Juditis_Mission/README.md)
