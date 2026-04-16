@@ -58,6 +58,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
 - **NitroAI Challenges:**
   - 🚗 [AutoValue: Predicting Car Prices](./MISC/NitroAI/AutoValue_Predicting_Car_Prices/README.md)
   - 🌀 [Markov Maze](./MISC/NitroAI/Markov_Maze/README.md)
+  - 🧬 [RNA Profile](./MISC/NitroAI/RNA_Profile/README.md)
   - 🏙️ [The City Problem](./MISC/NitroAI/The_City_Problem/README.md)
 
 ---
