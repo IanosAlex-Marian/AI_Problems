@@ -52,6 +52,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
   - 🦸 [Juditis Mission](./MISC/MLCompete/Juditis_Mission/README.md)
+  - 🏛️ [Museums of Romania](./MISC/MLCompete/Museums_Of_Romania/README.md)
   - 🤖 [Robots In The Maze](./MISC/MLCompete/Robots_In_The_Maze/README.md)
   - 🧩 [The Puzzle Guild Archives](./MISC/MLCompete/The_Puzzle_Guild_Archives/README.md)
   - 🚗 [Voltline Dealership](./MISC/MLCompete/Voltline_Dealership/README.md)
