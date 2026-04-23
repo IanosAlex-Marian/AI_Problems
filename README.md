@@ -37,7 +37,7 @@ Solutions for text analysis, sentiment classification, and language modeling.
   - 🆚 [Om VS Ai](./NLP/NitroAI/Om_VS_Ai/README.md)
   - 🐙 [Sad Squidward](./NLP/NitroAI/Sad_Squidward/README.md)
   - 🌍 [The Quadrilingual Land of Lonpestia](./NLP/NitroAI/The_Quadrilingual_Land_of_Lonpestia/README.md)
-  - 🦊 [What Does The Fox Say](./NLP/NitroAI/What_Does_The_Fox_Say/README.md)
+  -  foxes [What Does The Fox Say](./NLP/NitroAI/What_Does_The_Fox_Say/README.md)
 
 ---
 
@@ -53,6 +53,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
   - 🦸 [Juditis Mission](./MISC/MLCompete/Juditis_Mission/README.md)
   - 🏛️ [Museums of Romania](./MISC/MLCompete/Museums_Of_Romania/README.md)
+  - 🚴 [Petronel The Cyclist](./MISC/MLCompete/Petronel_The_Cyclist/README.md)
   - 🤖 [Robots In The Maze](./MISC/MLCompete/Robots_In_The_Maze/README.md)
   - 🧩 [The Puzzle Guild Archives](./MISC/MLCompete/The_Puzzle_Guild_Archives/README.md)
   - 🚗 [Voltline Dealership](./MISC/MLCompete/Voltline_Dealership/README.md)
