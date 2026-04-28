@@ -37,7 +37,7 @@ Solutions for text analysis, sentiment classification, and language modeling.
   - 🆚 [Om VS Ai](./NLP/NitroAI/Om_VS_Ai/README.md)
   - 🐙 [Sad Squidward](./NLP/NitroAI/Sad_Squidward/README.md)
   - 🌍 [The Quadrilingual Land of Lonpestia](./NLP/NitroAI/The_Quadrilingual_Land_of_Lonpestia/README.md)
-  -  foxes [What Does The Fox Say](./NLP/NitroAI/What_Does_The_Fox_Say/README.md)
+  -  🦊 [What Does The Fox Say](./NLP/NitroAI/What_Does_The_Fox_Say/README.md)
 
 ---
 
