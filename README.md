@@ -30,6 +30,7 @@ Explore projects focused on image classification, anomaly detection, and pattern
 Solutions for text analysis, sentiment classification, and language modeling.
 
 - **MLCompete Challenges:**
+  - 📧 [Automated Spam Email Detection](./NLP/MLCompete/Automated_Spam_Email_Detection/README.md)
   - 🇷🇴 [DialectRO](./NLP/MLCompete/DialectRO/README.md)
 
 - **NitroAI Challenges:**
