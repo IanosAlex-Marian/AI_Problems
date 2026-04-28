@@ -51,6 +51,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 📞 [Churn In Telecommunications Services](./MISC/MLCompete/Churn_In_Telecommunications_Services/README.md)
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
   - 🎓 [Educational Performance Evaluation](./MISC/MLCompete/Educational_Performance_Evaluation/README.md)
+  - ⚙️ [Equipment State Classification](./MISC/MLCompete/Equipment_State_Classification/README.md)
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
   - 🦸 [Juditis Mission](./MISC/MLCompete/Juditis_Mission/README.md)
   - 🏛️ [Museums of Romania](./MISC/MLCompete/Museums_Of_Romania/README.md)
