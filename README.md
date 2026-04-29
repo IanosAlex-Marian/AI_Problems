@@ -32,6 +32,7 @@ Solutions for text analysis, sentiment classification, and language modeling.
 - **MLCompete Challenges:**
   - 📧 [Automated Spam Email Detection](./NLP/MLCompete/Automated_Spam_Email_Detection/README.md)
   - 🇷🇴 [DialectRO](./NLP/MLCompete/DialectRO/README.md)
+  - 📑 [Text Classification Into Thematic Categories](./NLP/MLCompete/Text_Classification_Into_Thematic_Categories/README.md)
 
 - **NitroAI Challenges:**
   - 🤖 [Are You a Robot](./NLP/NitroAI/Are_You_a_Robot/README.md)
