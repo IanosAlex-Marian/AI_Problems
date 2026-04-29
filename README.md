@@ -48,6 +48,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
 - **MLCompete Challenges:**
   - 🧠 [Alzheimer's Diagnosis Prediction](./MISC/MLCompete/Alzheimers_Diagnosis_Prediction/README.md)
   - 💰 [Annual Income Prediction](./MISC/MLCompete/Annual_Income_Prediction/README.md)
+  - 📝 [Automated Loan Evaluation](./MISC/MLCompete/Automated_Loan_Evaluation/README.md)
   - 🏦 [Bank Marketing](./MISC/MLCompete/Bank_Marketing/README.md)
   - 🎖️ [Battlefield Recon](./MISC/MLCompete/Battlefield_Recon/README.md)
   - 📞 [Churn In Telecommunications Services](./MISC/MLCompete/Churn_In_Telecommunications_Services/README.md)
