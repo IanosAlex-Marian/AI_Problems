@@ -53,6 +53,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 🏦 [Bank Marketing](./MISC/MLCompete/Bank_Marketing/README.md)
   - 🎖️ [Battlefield Recon](./MISC/MLCompete/Battlefield_Recon/README.md)
   - 📞 [Churn In Telecommunications Services](./MISC/MLCompete/Churn_In_Telecommunications_Services/README.md)
+  - 🌸 [Classification Of Iris Flower Species](./MISC/MLCompete/Classification_Of_Iris_Flower_Species/README.md)
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
   - 🌡️ [Daily Average Temperature Prediction](./MISC/MLCompete/Daily_Average_Temperature_Prediction/README.md)
   - 🎓 [Educational Performance Evaluation](./MISC/MLCompete/Educational_Performance_Evaluation/README.md)
