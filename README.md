@@ -68,6 +68,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 🧩 [The Puzzle Guild Archives](./MISC/MLCompete/The_Puzzle_Guild_Archives/README.md)
   - 🚆 [Train Delay Prediction](./MISC/MLCompete/Train_Delay_Prediction/README.md)
   - 🚗 [Voltline Dealership](./MISC/MLCompete/Voltline_Dealership/README.md)
+  - 🍷 [Wine Type Classification](./MISC/MLCompete/Wine_Type_Classification/README.md)
 
 - **NitroAI Challenges:**
   - 🚗 [AutoValue: Predicting Car Prices](./MISC/NitroAI/AutoValue_Predicting_Car_Prices/README.md)
