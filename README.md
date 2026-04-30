@@ -54,6 +54,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 🎖️ [Battlefield Recon](./MISC/MLCompete/Battlefield_Recon/README.md)
   - 📞 [Churn In Telecommunications Services](./MISC/MLCompete/Churn_In_Telecommunications_Services/README.md)
   - 💳 [Credit Card Fraud Detection](./MISC/MLCompete/Credit_Card_Fraud_Detection/README.md)
+  - 🌡️ [Daily Average Temperature Prediction](./MISC/MLCompete/Daily_Average_Temperature_Prediction/README.md)
   - 🎓 [Educational Performance Evaluation](./MISC/MLCompete/Educational_Performance_Evaluation/README.md)
   - ⚙️ [Equipment State Classification](./MISC/MLCompete/Equipment_State_Classification/README.md)
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
