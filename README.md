@@ -58,6 +58,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 🌡️ [Daily Average Temperature Prediction](./MISC/MLCompete/Daily_Average_Temperature_Prediction/README.md)
   - 🎓 [Educational Performance Evaluation](./MISC/MLCompete/Educational_Performance_Evaluation/README.md)
   - ⚙️ [Equipment State Classification](./MISC/MLCompete/Equipment_State_Classification/README.md)
+  - ⚽ [Fairplay](./MISC/MLCompete/Fairplay/README.md)
   - 🌌 [GalacticWars Winner Prediction](./MISC/MLCompete/GalacticWars_Winner_Prediction/README.md)
   - 🦸 [Juditis Mission](./MISC/MLCompete/Juditis_Mission/README.md)
   - 🏛️ [Museums of Romania](./MISC/MLCompete/Museums_Of_Romania/README.md)
