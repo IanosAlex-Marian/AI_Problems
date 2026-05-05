@@ -66,6 +66,7 @@ General ML problems including regression, reinforcement learning, and algorithmi
   - 🚍 [Public Transportation](./MISC/MLCompete/Public_Transportation/README.md)
   - 🤖 [Robots In The Maze](./MISC/MLCompete/Robots_In_The_Maze/README.md)
   - 💎 [Royal Diamond Store](./MISC/MLCompete/Royal_Diamond_Store/README.md)
+  - 📦 [SmartCargo](./MISC/MLCompete/SmartCargo/README.md)
   - ☀️ [Solar Energy Production](./MISC/MLCompete/Solar_Energy_Production/README.md)
   - 🧩 [The Puzzle Guild Archives](./MISC/MLCompete/The_Puzzle_Guild_Archives/README.md)
   - 🚆 [Train Delay Prediction](./MISC/MLCompete/Train_Delay_Prediction/README.md)
